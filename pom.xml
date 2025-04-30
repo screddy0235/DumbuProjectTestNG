@@ -8,7 +8,6 @@
     <artifactId>Dumbu_Automation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>

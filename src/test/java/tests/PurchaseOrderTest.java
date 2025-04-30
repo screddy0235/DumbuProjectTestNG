@@ -15,6 +15,7 @@ public class PurchaseOrderTest extends BasePage {
         loginPage.login("santosh", "Pipra");
         DashBoardPage orderType = new DashBoardPage(driver);
         orderType.order("Purchase Order", "2");
+//        mm
 
     }
 
